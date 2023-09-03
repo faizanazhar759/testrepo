@@ -1,1 +1,3 @@
 # testrepo
+
+i am just testing and exploring github for now...
